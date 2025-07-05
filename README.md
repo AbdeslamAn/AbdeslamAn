@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hallo! Ich bin Abdeslam Anssar
 
-<!--
-**AbdeslamAn/AbdeslamAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein motivierter Informatiker aus Marokko und suche eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung**.  
+Ich habe Kenntnisse in:
 
-Here are some ideas to get you started:
+🛠️ **Technologien**  
+- HTML, CSS, JavaScript  
+- PHP, Laravel , MySQL  
+- C#, ASP.NET, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Meine Projekte**  
+- 🕊️ [Fly Higher – Tauben-Verwaltung](https://github.com/AbdeslamAn/fly_higher3.git)
+
+🎯 **Was ich suche:**  
+Ein Ausbildungsplatz in Deutschland, wo ich lernen, arbeiten und wachsen kann.
+
+🎣 **Hobbys:**  
+Ich züchte Tauben und gehe gerne angeln. Diese Hobbys helfen mir, Geduld und Verantwortung zu lernen.
+
+📫 **Kontakt:**  
+[LinkedIn-Profil ansehen](https://www.linkedin.com/in/abdeslam-anssar)
+
