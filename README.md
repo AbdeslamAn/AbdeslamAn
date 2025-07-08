@@ -8,9 +8,14 @@ Derzeit suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
 
 - HTML / CSS / JavaScript
-- PHP, Laravel , MySQL  
-- C#, ASP.NET, SQL
-- Git, GitHup
+- PHP / MySQL  
+- C# / ASP.NET / SQL Server
+
+
+🛠️ **Technologien, die ich derzeit verwende:**  
+- HTML / CSS / JavaScript  
+- PHP / Laravel 12 / MySQL
+
 
 Ich interessiere mich besonders für die **Webentwicklung** und spannende **Softwareprojekte**.
 
