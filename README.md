@@ -1,22 +1,33 @@
 # 👋 Hallo! Ich bin Abdeslam Anssar
 
-Ich bin ein motivierter Informatiker aus Marokko und suche eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung**.  
-Ich habe Kenntnisse in:
+Ich bin 25 Jahre alt und habe eine Ausbildung im Bereich Informatik gemacht.  
+Derzeit suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung**.
 
-🛠️ **Technologien**  
-- HTML, CSS, JavaScript  
+## 💻 Was ich kann:
+
+Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
+
+- HTML / CSS / JavaScript
 - PHP, Laravel , MySQL  
 - C#, ASP.NET, SQL
 - Git, GitHup
 
-📂 **Meine Projekte**  
-- 🕊️ [Fly Higher – Tauben-Verwaltung](https://github.com/AbdeslamAn/fly_higher3.git)
+Ich interessiere mich besonders für die **Webentwicklung** und spannende **Softwareprojekte**.
 
-🎯 **Was ich suche:**  
-Ein Ausbildungsplatz in Deutschland, wo ich lernen, arbeiten und wachsen kann.
+## 🚀 Was mich auszeichnet:
 
-🎣 **Hobbys:**  
-Ich züchte Tauben und gehe gerne angeln. Diese Hobbys helfen mir, Geduld und Verantwortung zu lernen.
+- Ich bin **hoch motiviert**
+- Ich lerne **schnell**
+- Ich arbeite **gern im Team**
+- Ich möchte meine Kenntnisse ständig **weiterentwickeln**
+
+## 🎯 Persönliche Eigenschaften:
+
+In meiner Freizeit züchte ich **Tauben** 🕊️ und gehe **angeln** 🎣.  
+Diese Hobbys lehren mich **Geduld**, **Konzentration** und **Verantwortung** –  
+Fähigkeiten, die auch im Berufsleben eine wichtige Rolle spielen.
+
+---
 
 📫 **Kontakt:**  
 [LinkedIn-Profil ansehen](https://www.linkedin.com/in/abdeslam-anssar)
