@@ -13,7 +13,7 @@ Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
 
 
 🛠️ **Technologien, die ich derzeit verwende:**  
-- HTML / CSS / JavaScript  
+- HTML / CSS(Tailwind CSS) / JavaScript  
 - PHP / Laravel 12 / MySQL
 
 
