@@ -9,7 +9,7 @@ Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
 
 - HTML / CSS / JavaScript
 - PHP / MySQL  
-- C# / ASP.NET / SQL Server
+- C# / .NET / SQL Server
 
 
 🛠️ **Technologien, die ich derzeit verwende:**  
