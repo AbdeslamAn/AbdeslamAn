@@ -1,4 +1,4 @@
-# 👋 Hallo! Mein Name ist Abdeslam Anssar
+# 👋 Hallo! Ich heiße Abdeslam Anssar
 
 Ich bin 25 Jahre alt und habe eine Ausbildung im Bereich Informatik gemacht.  
 Derzeit suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung**.
