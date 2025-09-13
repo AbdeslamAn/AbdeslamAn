@@ -12,11 +12,11 @@ Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
 - C# / .NET / SQL Server
 
 
-🛠️ **Technologien & Tols, die ich derzeit verwende:**  
-- HTML / CSS(Tailwind CSS) / JavaScript  
+🛠️ **Technologien & Tools, die ich derzeit verwende:**  
+- HTML / CSS (Tailwind CSS) / JavaScript  
 - PHP / Laravel 12 / MySQL
-- Git & Githup
-- Xampp / TablePlus
+- Git & GitHub
+- XAMPP / TablePlus
 - VS Code
 
 
