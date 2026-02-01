@@ -13,9 +13,9 @@ Während meiner Ausbildung habe ich mit folgenden Technologien gearbeitet:
 
 
 🛠️ **Technologien & Tools, die ich derzeit verwende:**  
-- PHP / Laravel 12 / MySQL / Tailwind CSS
+- PHP / Laravel / MySQL / Tailwind CSS
 - Git & GitHub
-- XAMPP / TablePlus / 
+- XAMPP / TablePlus 
 - WSL(Ubuntu)
 - VS Code
 
