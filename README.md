@@ -1,12 +1,97 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 
-<p style="font-size:22px;">
-👋 I'm <b>Abdeslam Anssar</b>
-</p>
-<u>Junior Web Developer</u>
-<br>
+  <defs>
+    <!-- 🌈 Animated Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="stop-color"
+          values="#00c6ff;#ff00cc;#00ff99;#00c6ff"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff00cc">
+        <animate attributeName="stop-color"
+          values="#ff00cc;#00ff99;#00c6ff;#ff00cc"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
+
+    .title {
+      font-family: monospace;
+      font-size: 42px;
+      fill: url(#bg);
+      font-weight: bold;
+      animation: flicker 2s infinite;
+    }
+
+    .subtitle {
+      font-family: monospace;
+      font-size: 20px;
+      fill: #c9d1d9;
+    }
+
+    .skills {
+      font-family: monospace;
+      font-size: 18px;
+      fill: #00ff99;
+    }
+
+    .move {
+      animation: moveX 8s linear infinite;
+    }
+
+    @keyframes moveX {
+      0% { transform: translateX(-50%); opacity: 0; }
+      20% { opacity: 1; }
+      80% { opacity: 1; }
+      100% { transform: translateX(50%); opacity: 0; }
+    }
+
+    @keyframes flicker {
+      0%,100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="900" height="260" class="bg"/>
+
+  <!-- Animated Title -->
+  <g class="move">
+    <text x="220" y="80" class="title" filter="url(#glow)">
+      👨‍💻 Abdeslam Anssar
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="260" y="130" class="subtitle">
+    Junior Web Developer | IT Specialist | Problem Solver
+  </text>
+
+  <!-- Footer line animation -->
+  <rect x="200" y="200" width="500" height="2" fill="url(#bg)">
+    <animate attributeName="width" from="0" to="500" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
+
+
 
 💻 Technicien Spécialisé in Software Development  <br>
 🚀 Passionate about building web applications and solving real-world problems  
