@@ -91,4 +91,6 @@ Soon I will share:
 
 ## 🔄 Code Cycle
 
+![cycle](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 😵 Bug → 😌 Fixed → 😲 Don't know how it worked 😂
