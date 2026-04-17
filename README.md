@@ -64,14 +64,6 @@ Soon I will share:
 
 ---
 
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-abdeslamanssar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdeslamanssar@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdeslam%20Anssar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdeslam-anssar)
-
----
-
 ## ⚡ Fun Fact
 
 💡 I enjoy solving problems and learning new technologies every day.
@@ -96,4 +88,8 @@ Soon I will share:
 
 ---
 
+## 📫 Contact Me
 
+[![Email](https://img.shields.io/badge/Email-abdeslamanssar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdeslamanssar@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdeslam%20Anssar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdeslam-anssar)
