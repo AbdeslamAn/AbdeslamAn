@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Abdeslam%20Anssar&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Abdeslam%20Anssar&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>💻 Web Developer | Full Stack | Problem Solver</b>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=😵+Bug;😌+Fixed;😲+Don't+know+how+it+worked+😂" />
 </p>
 
 
+---
 
 💻 Technicien Spécialisé in Software Development  <br>
 🚀 Passionate about building web applications and solving real-world problems  
