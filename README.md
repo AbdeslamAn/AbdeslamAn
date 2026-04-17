@@ -5,7 +5,8 @@
 <p style="font-size:22px;">
 👋 I'm <b>Abdeslam Anssar</b>
 </p>
-
+<U>Junior Web Developer</U>
+<br>
 💻 Technicien Spécialisé in Software Development  
 🚀 Passionate about building web applications and solving real-world problems  
 
@@ -63,8 +64,9 @@ Soon I will share:
 
 ## 📫 Contact Me
 
-- 📧 Email: abdeslamanssar@gmail.com  
-- 💼 LinkedIn: *(ضع الرابط ديالك هنا)*  
+[![Email](https://img.shields.io/badge/Email-abdeslamanssar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdeslamanssar@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdeslam%20Anssar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdeslam-anssar)
 
 ---
 
