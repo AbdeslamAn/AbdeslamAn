@@ -1,7 +1,5 @@
-## 👨‍💻 Abdeslam Anssar
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff00cc&height=200&section=header&text=Abdeslam%20Anssar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Abdeslam%20Anssar&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
 
@@ -48,6 +46,33 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
+
+---
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeslamanssar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeslamanssar&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdeslamanssar&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 SNAKE CONTRIBUTION
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
