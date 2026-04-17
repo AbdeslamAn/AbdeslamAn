@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="![Uploading ChatGPT Image 17. Apr. 2026, 13_22_01.png…]() width="60%"/>
 
-# 👋 Hello, I'm Abdeslam Anssar
 
-💻 IT Graduate | Future Software Developer  
-🚀 Passionate about Web & Application Development  
+💻 Technicien Spécialisé in Software Development  
+🚀 Passionate about building web applications and solving real-world problems  
+
 
 </div>
 
@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate  
-- 💡 Interested in **Web Development & Software Engineering**
-- 🌱 Currently learning **Laravel & .NET**
-- 🔍 Improving my skills in **JavaScript & Backend Development**
-- 🎯 Goal: Become a professional **Full-Stack Developer**
+- 🎓 Graduate in Software Development (Technicien Spécialisé)
+- 🌱 Currently improving my skills in Laravel 
+- 💻 Focused on web development and backend systems
+- 🧠 Interested in databases, APIs, and clean code
+- 🎯 Goal: Become a professional Full-Stack Developer 
 
 ---
 
@@ -41,16 +41,10 @@
 
 ### ⚙️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🧠 Currently Learning
-
-- 🔹 Laravel (MVC, Routing, Eloquent)
-- 🔹 .NET Development
-- 🔹 Clean Code & Best Practices
 
 ---
 
