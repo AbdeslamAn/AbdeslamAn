@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Abdeslam%20Anssar&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=700&color=FF00CC&center=true&vCenter=true&width=900&lines=😵+Bug;→+Debugging...;😌+Fixed;+“How+did+this even+work?”😂" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=😵+Bug;😌+Fixed;😲+Don't+know+how+it+worked+😂" />
 </p>
 
 
