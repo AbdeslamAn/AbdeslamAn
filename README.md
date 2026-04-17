@@ -5,9 +5,10 @@
 <p style="font-size:22px;">
 👋 I'm <b>Abdeslam Anssar</b>
 </p>
-<U>Junior Web Developer</U>
+<u>Junior Web Developer</u>
 <br>
-💻 Technicien Spécialisé in Software Development  
+
+💻 Technicien Spécialisé in Software Development  <br>
 🚀 Passionate about building web applications and solving real-world problems  
 
 
