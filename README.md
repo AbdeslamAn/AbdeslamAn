@@ -48,33 +48,7 @@
 
 
 ---
-## 📊 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeslamanssar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeslamanssar&theme=tokyonight" />
-</p>
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdeslamanssar&theme=react-dark" />
-</p>
-
----
-
-## 🐍 SNAKE CONTRIBUTION
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📌 Projects
 
@@ -109,6 +83,14 @@ Soon I will share:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeslamAN&layout=compact&theme=dark" width="45%"/>
 
 </div>
+
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdeslamanssar&theme=react-dark" />
+</p>
+
+---
 
 ---
 
