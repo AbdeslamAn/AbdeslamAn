@@ -1,5 +1,3 @@
-<div align="center">
-
 <svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
@@ -81,7 +79,12 @@
 
   <!-- Subtitle -->
   <text x="260" y="130" class="subtitle">
-    Junior Web Developer | IT Specialist | Problem Solver
+    Full Stack Developer | IT Specialist | Problem Solver
+  </text>
+
+  <!-- Skills -->
+  <text x="180" y="180" class="skills">
+    💻 HTML • CSS • JavaScript • PHP • Laravel • .NET • SQL Server
   </text>
 
   <!-- Footer line animation -->
