@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=😵+Bug;😌+Fixed;😲+Don't+know+how+it+worked+😂" />
 </p>
 
-
----
-
-💻 Technicien Spécialisé in Software Development  <br>
-🚀 Passionate about building web applications and solving real-world problems  
-
-
 </div>
 
 ---
