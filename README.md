@@ -8,7 +8,7 @@
 </div>
 
 ---
-<center>
+
 ## 🚀 About Me
 
 - 🎓 Graduate in Software Development (Technicien Spécialisé)
@@ -59,7 +59,7 @@ Soon I will share:
 ## ⚡ Fun Fact
 
 💡 I enjoy solving problems and learning new technologies every day.
-</center>
+
 ---
 
 ## 📊 GitHub Stats
