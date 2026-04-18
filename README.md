@@ -8,7 +8,7 @@
 </div>
 
 ---
-<p align="center">
+<center>
 ## 🚀 About Me
 
 - 🎓 Graduate in Software Development (Technicien Spécialisé)
@@ -16,9 +16,9 @@
 - 💻 Focused on web development and backend systems
 - 🧠 Interested in databases, APIs, and clean code
 - 🎯 Goal: Become a professional Full-Stack Developer 
-</p>
+
 ---
-<p align="center">
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Backend
@@ -42,10 +42,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-</p>
+
 ---
 
-<p align="center">
+
 ## 📌 Projects
 
 🚧 I’m currently working on improving my skills by building small projects.  
@@ -53,13 +53,13 @@ Soon I will share:
 - Web applications using Laravel  
 - CRUD systems  
 - Practical backend projects  
-</p>
+
 ---
-<p align="center">
+
 ## ⚡ Fun Fact
 
 💡 I enjoy solving problems and learning new technologies every day.
-</p>
+</center>
 ---
 
 ## 📊 GitHub Stats
